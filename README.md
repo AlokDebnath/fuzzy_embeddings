@@ -2,13 +2,13 @@
 
 ### Authors
 
-Siddharth Bhat, Alok Debnath, Souvik Bannerjee, and Manish
+Siddharth Bhat, Alok Debnath, Souvik Banerjee, and Manish
 Shrivastava
 
 Kohli Center on Intelligent Systems,
 International Institute of Information Technology, Hyderabad
 
-{siddharth.bhat, alok.debnath, souvik.bannerjee}@research.iiit.ac.in
+{siddharth.bhat, alok.debnath, souvik.banerjee}@research.iiit.ac.in
 
 m.shrivastava@iiit.ac.in
 
